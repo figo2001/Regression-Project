@@ -1,4 +1,4 @@
-# House Price Prediction Regression Project with Ridge, Lasso, and Elastic Net 🏠🏚
+# Regression Project with Ridge, Lasso, and Elastic Net 🏠🏚
 
 This project aims to build a regression model from scratch using Ridge, Lasso, and Elastic Net regularization techniques. Additionally, it involves data cleaning, exploration, and visualization to enhance model accuracy.
 

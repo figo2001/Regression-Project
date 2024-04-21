@@ -77,12 +77,13 @@ Model performance will be evaluated using metrics like
 
 ## Screenshots
 
+### i) Boxplot
 ![ss3](https://github.com/figo2001/Regression-Project/assets/78696850/2e1b50be-4827-4378-bf5b-4699d3c6ea3c)
 
-
+## ii) Distribution of Labeled Column (SalePrice)
 ![ss1](https://github.com/figo2001/Regression-Project/assets/78696850/05db2460-413c-4dac-953b-569ec85946d0)
 
-
+## iii) Evaluation Metrics
 ![ss2](https://github.com/figo2001/Regression-Project/assets/78696850/856f5e72-c00f-4b02-a9fb-0548e2d0c321)
 
 

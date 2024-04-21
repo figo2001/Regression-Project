@@ -21,14 +21,14 @@ This project will cover the following steps:
 
 ## Technologies Used
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Lasso
-- Ridge
-- Elastic Net
+- **Python**
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Scikit-learn**
+- **Lasso**
+- **Ridge**
+- **Elastic Net**
 
 ## Getting Started
 
@@ -67,7 +67,24 @@ Ridge, Lasso, and Elastic Net regression models will be implemented from scratch
 
 ## Model Evaluation
 
-Model performance will be evaluated using metrics like Mean Squared Error (MSE), R-squared, and Cross-Validation scores.
+Model performance will be evaluated using metrics like 
+
+- **Mean Squared Error** (MSE)
+- **Root Mean Squared Error** (RMSE)
+- **Mean Absolute Error** (MAE)
+- **R-squared**
+- **Cross-Validation scores**
+
+## Screenshots
+
+![ss3](https://github.com/figo2001/Regression-Project/assets/78696850/2e1b50be-4827-4378-bf5b-4699d3c6ea3c)
+
+
+![ss1](https://github.com/figo2001/Regression-Project/assets/78696850/05db2460-413c-4dac-953b-569ec85946d0)
+
+
+![ss2](https://github.com/figo2001/Regression-Project/assets/78696850/856f5e72-c00f-4b02-a9fb-0548e2d0c321)
+
 
 ## Conclusion
 
